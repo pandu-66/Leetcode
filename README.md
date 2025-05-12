@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/pandu-66/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/pandu-66/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/pandu-66/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/pandu-66/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/pandu-66/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/pandu-66/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
