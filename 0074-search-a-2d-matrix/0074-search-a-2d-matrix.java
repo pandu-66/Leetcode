@@ -13,7 +13,7 @@ class Solution {
         }
         if(foundIdx>=0){
             int left = 0;
-            int right = n;
+            int right = n-1;
             while(left<=right){
                 int mid = (left+right)/2;
                 if(matrix[foundIdx][mid]==target){
