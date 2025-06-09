@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/pandu-66/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/pandu-66/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/pandu-66/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pandu-66/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/pandu-66/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/pandu-66/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/pandu-66/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pandu-66/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/pandu-66/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pandu-66/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/pandu-66/Leetcode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pandu-66/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/pandu-66/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/pandu-66/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/pandu-66/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pandu-66/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pandu-66/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pandu-66/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
