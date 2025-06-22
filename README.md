@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/pandu-66/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/pandu-66/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pandu-66/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/pandu-66/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/pandu-66/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## String
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/pandu-66/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
